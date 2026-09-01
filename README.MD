@@ -2,10 +2,10 @@
 <pre>
 interests
   → software architecture
-  → automation & backend
-  → applied ai & rag
-  → cybersec & hardening
-  → cats
+  → devops & cloud
+  → cybersecurity
+  → backend & data
+  → ai tools
 
 building
   → ai inventory system (thesis)
@@ -13,6 +13,5 @@ building
 contact
   → discord : daemon1z
   → email   : x@daemonize.me
-  → web     : https://daemonize.me
 
 open to full-time roles & commissions.</pre>
